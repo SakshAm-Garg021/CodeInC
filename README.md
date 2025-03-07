@@ -1,0 +1,2 @@
+# CodeInC
+learning code c
